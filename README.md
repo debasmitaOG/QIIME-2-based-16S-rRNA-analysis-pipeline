@@ -42,8 +42,8 @@ The FASTQ data is not included in this repository. The pipeline expects files na
 **1. Get the repository, the data and the image**
 
 ```
-git clone <repository-url>
-cd <repository-folder>
+git clone <https://github.com/debasmitaOG/QIIME-2-based-16S-rRNA-analysis-pipeline.git>
+cd <QIIME-2-based-16S-rRNA-analysis-pipeline>
 chmod +x bin/make_manifest.sh
 docker pull quay.io/qiime2/qiime2:2026.10
 ```
